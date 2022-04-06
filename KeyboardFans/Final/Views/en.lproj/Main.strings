@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2NB-Jq-MLE"; */
+"2NB-Jq-MLE.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2W9-M4-5GE"; */
+"2W9-M4-5GE.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DWW-HF-DlY"; */
+"DWW-HF-DlY.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "商品頁(Shop)"; ObjectID = "Des-d1-SBh"; */
+"Des-d1-SBh.title" = "商品頁(Shop)";
+
+/* Class = "UITabBarItem"; title = "紀錄(Log)"; ObjectID = "GHz-MR-ZW4"; */
+"GHz-MR-ZW4.title" = "紀錄(Log)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IVK-NV-Wfh"; */
+"IVK-NV-Wfh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "N51-eF-TCq"; */
+"N51-eF-TCq.normalTitle" = "Add to Cart";
+
+/* Class = "UITextView"; text = "Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this "; ObjectID = "Qb9-My-aN4"; */
+"Qb9-My-aN4.text" = "Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this Fuck this ";
+
+/* Class = "UINavigationItem"; title = "商品列表"; ObjectID = "SOi-38-5sb"; */
+"SOi-38-5sb.title" = "商品列表";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TWK-XM-rGX"; */
+"TWK-XM-rGX.text" = "Label";
+
+/* Class = "UILabel"; text = "$111"; ObjectID = "TY5-ai-WkI"; */
+"TY5-ai-WkI.text" = "$111";
+
+/* Class = "UITabBarItem"; title = "圖鑑(Wiki)"; ObjectID = "UmD-3S-JpR"; */
+"UmD-3S-JpR.title" = "圖鑑(Wiki)";
+
+/* Class = "UITabBarItem"; title = "購物車(Cart)"; ObjectID = "Vo0-4y-NgS"; */
+"Vo0-4y-NgS.title" = "購物車(Cart)";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx"; ObjectID = "WfI-vL-0oA"; */
+"WfI-vL-0oA.text" = "xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx xxxxxx";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "XDg-fs-VNH"; */
+"XDg-fs-VNH.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "填寫寄件資訊"; ObjectID = "YkF-h6-gAb"; */
+"YkF-h6-gAb.normalTitle" = "填寫寄件資訊";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YwS-ea-t2G"; */
+"YwS-ea-t2G.text" = "Label";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "bx6-qW-CVL"; */
+"bx6-qW-CVL.text" = "Quantity :";
+
+/* Class = "UILabel"; text = "總金額:XXX元"; ObjectID = "fIM-vp-PNz"; */
+"fIM-vp-PNz.text" = "總金額:XXX元";
+
+/* Class = "UINavigationItem"; title = "商品一覽"; ObjectID = "hLE-93-dcl"; */
+"hLE-93-dcl.title" = "商品一覽";
+
+/* Class = "UIButton"; normalTitle = "Buy Now"; ObjectID = "ohU-Lm-CF5"; */
+"ohU-Lm-CF5.normalTitle" = "Buy Now";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sm1-Tf-5Ym"; */
+"sm1-Tf-5Ym.text" = "Label";
+
+/* Class = "UITextView"; text = "name"; ObjectID = "usn-NC-pLm"; */
+"usn-NC-pLm.text" = "name";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "uzS-YZ-94c"; */
+"uzS-YZ-94c.text" = "1";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "vTh-mZ-Kco"; */
+"vTh-mZ-Kco.text" = "Description :";
+
+/* Class = "UIButton"; configuration.title = "Like"; ObjectID = "xny-pH-FfO"; */
+"xny-pH-FfO.configuration.title" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xny-pH-FfO"; */
+"xny-pH-FfO.normalTitle" = "Button";
